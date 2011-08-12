@@ -1,0 +1,737 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 439}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	1DDD58150DA1D0A300B32029 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 92316}}";
+			sepNavSelRange = "{476, 0}";
+			sepNavVisRange = "{2427, 1822}";
+			sepNavVisRect = "{{0, 2749}, {1025, 537}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7027D5440FC62DE400734009 /* FlameWars */;
+		activeTarget = 8D1107260486CEB800E47090 /* FlameWars */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* FlameWars */,
+		);
+		breakpoints = (
+			704120B00EB522B600FA3DE1 /* Player.m:23 */,
+			704120C00EB523D000FA3DE1 /* ScoresController.m:29 */,
+			7007EE130ED09D0E00C34C13 /* soundController.m:102 */,
+			708936B20EDE2F29002BD3B8 /* soundController.m:17 */,
+			70824BBB0F952DC300EE567A /* asm __udivdi3  0x9530c262:64 */,
+			70BCA92F0FA7BEF70015F803 /* soundController.m:15 */,
+			70BCA95E0FA7C0250015F803 /* soundController.m:14 */,
+			70BCA9680FA7C2610015F803 /* main.m:13 */,
+		);
+		codeSenseManager = 702BED4D0E9E84BA0070EC85 /* Code sense */;
+		executables = (
+			7027D5440FC62DE400734009 /* FlameWars */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					723,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					721,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					847,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 272403035;
+			PBXWorkspaceStateSaveDate = 272403035;
+		};
+		perUserProjectItems = {
+			700CCBD60EBCBDF5000A531A /* PBXTextBookmark */ = 700CCBD60EBCBDF5000A531A /* PBXTextBookmark */;
+			700CCC050EBD9CC5000A531A /* PBXTextBookmark */ = 700CCC050EBD9CC5000A531A /* PBXTextBookmark */;
+			700CCC0C0EBD9CC5000A531A /* PBXTextBookmark */ = 700CCC0C0EBD9CC5000A531A /* PBXTextBookmark */;
+			70229CF70FC332380036ABFA /* PBXTextBookmark */ = 70229CF70FC332380036ABFA /* PBXTextBookmark */;
+			70229CF80FC332380036ABFA /* PBXTextBookmark */ = 70229CF80FC332380036ABFA /* PBXTextBookmark */;
+			70229CFE0FC332380036ABFA /* PBXTextBookmark */ = 70229CFE0FC332380036ABFA /* PBXTextBookmark */;
+			70411F370EB4D6CA00FA3DE1 /* PBXTextBookmark */ = 70411F370EB4D6CA00FA3DE1 /* PBXTextBookmark */;
+			70411F3E0EB4D6CA00FA3DE1 /* PBXTextBookmark */ = 70411F3E0EB4D6CA00FA3DE1 /* PBXTextBookmark */;
+			70411F400EB4D6CA00FA3DE1 /* PBXTextBookmark */ = 70411F400EB4D6CA00FA3DE1 /* PBXTextBookmark */;
+			705A9E910FC8001C0005774A /* PBXTextBookmark */ = 705A9E910FC8001C0005774A /* PBXTextBookmark */;
+			705A9E920FC8001C0005774A /* PBXTextBookmark */ = 705A9E920FC8001C0005774A /* PBXTextBookmark */;
+			705A9E930FC8001C0005774A /* PBXTextBookmark */ = 705A9E930FC8001C0005774A /* PBXTextBookmark */;
+			705A9E940FC8001C0005774A /* PBXTextBookmark */ = 705A9E940FC8001C0005774A /* PBXTextBookmark */;
+			705A9E960FC8001C0005774A /* PBXTextBookmark */ = 705A9E960FC8001C0005774A /* PBXTextBookmark */;
+			70602DD6103C8A6D00D9C25F /* PBXTextBookmark */ = 70602DD6103C8A6D00D9C25F /* PBXTextBookmark */;
+			70602DE2103DA62000D9C25F /* PBXTextBookmark */ = 70602DE2103DA62000D9C25F /* PBXTextBookmark */;
+			70824D260F95314F00EE567A /* PlistBookmark */ = 70824D260F95314F00EE567A /* PlistBookmark */;
+			70C6CAEE0FC229EB007DEB42 /* PlistBookmark */ = 70C6CAEE0FC229EB007DEB42 /* PlistBookmark */;
+			70D0DB450FC2359C008D1EC1 /* PlistBookmark */ = 70D0DB450FC2359C008D1EC1 /* PlistBookmark */;
+			70D0DB460FC2359C008D1EC1 /* PBXTextBookmark */ = 70D0DB460FC2359C008D1EC1 /* PBXTextBookmark */;
+			70D0DB470FC2359C008D1EC1 /* PlistBookmark */ = 70D0DB470FC2359C008D1EC1 /* PlistBookmark */;
+			70D0DB480FC2359C008D1EC1 /* PBXTextBookmark */ = 70D0DB480FC2359C008D1EC1 /* PBXTextBookmark */;
+			70D0DB490FC2359C008D1EC1 /* PBXTextBookmark */ = 70D0DB490FC2359C008D1EC1 /* PBXTextBookmark */;
+			70E2A9F90EA537D200C0A07F /* PBXTextBookmark */ = 70E2A9F90EA537D200C0A07F /* PBXTextBookmark */;
+			70E2AA210EA53A8700C0A07F /* PBXTextBookmark */ = 70E2AA210EA53A8700C0A07F /* PBXTextBookmark */;
+			70E2AA640EA55C1100C0A07F /* PBXTextBookmark */ = 70E2AA640EA55C1100C0A07F /* PBXTextBookmark */;
+			70F0776E0F328C0F007FC7ED /* PBXTextBookmark */ = 70F0776E0F328C0F007FC7ED /* PBXTextBookmark */;
+		};
+		sourceControlManager = 702BED4C0E9E84BA0070EC85 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 284}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 261}";
+			sepNavWindowFrame = "{{15, -1}, {750, 774}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FlameWars_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 439}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 149}";
+		};
+	};
+	7007EE130ED09D0E00C34C13 /* soundController.m:102 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 700CCC2B0EBD9CE5000A531A /* soundController.m */;
+		functionName = "-play::";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 102;
+		location = FlameWars;
+		modificationTime = 264720946.8614489;
+		state = 2;
+	};
+	700CCBD60EBCBDF5000A531A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	700CCBE80EBCBE8F000A531A /* soundController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1246}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 635}";
+			sepNavWindowFrame = "{{15, -1}, {750, 774}}";
+		};
+	};
+	700CCBE90EBCBE8F000A531A /* soundController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 3416}}";
+			sepNavSelRange = "{5262, 0}";
+			sepNavVisRange = "{4710, 559}";
+		};
+	};
+	700CCC050EBD9CC5000A531A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 700CCBE80EBCBE8F000A531A /* soundController.h */;
+		name = "soundController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	700CCC0C0EBD9CC5000A531A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 700CCBE90EBCBE8F000A531A /* soundController.m */;
+		name = "soundController.m: 13";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	700CCC2B0EBD9CE5000A531A /* soundController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = soundController.m;
+		path = /Users/stuartgrimshaw/Project/FlameWars.cocoa/soundController.m;
+		sourceTree = "<group>";
+	};
+	70229CF70FC332380036ABFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F2B0EB4B55A00FA3DE1 /* Player.h */;
+		name = "Player.h: 14";
+		rLen = 42;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	70229CF80FC332380036ABFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F2C0EB4B55A00FA3DE1 /* Player.m */;
+		name = "Player.m: 23";
+		rLen = 5;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	70229CFE0FC332380036ABFA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F2C0EB4B55A00FA3DE1 /* Player.m */;
+		name = "Player.m: 23";
+		rLen = 5;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	70229D0E0FC33C8F0036ABFA /* soundController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = soundController.m;
+		path = /Users/stuartgrimshaw/Project/FlameWars/soundController.m;
+		sourceTree = "<absolute>";
+	};
+	7027D5440FC62DE400734009 /* FlameWars */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FlameWars;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	702BED4C0E9E84BA0070EC85 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = Home;
+		};
+	};
+	702BED4D0E9E84BA0070EC85 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	70411F230EB4B50B00FA3DE1 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	70411F2B0EB4B55A00FA3DE1 /* Player.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1908, 439}}";
+			sepNavSelRange = "{231, 42}";
+			sepNavVisRange = "{0, 765}";
+		};
+	};
+	70411F2C0EB4B55A00FA3DE1 /* Player.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 439}}";
+			sepNavSelRange = "{326, 5}";
+			sepNavVisRange = "{0, 331}";
+		};
+	};
+	70411F370EB4D6CA00FA3DE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F230EB4B50B00FA3DE1 /* NSObject.h */;
+		name = "NSObject.h: 48";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 853;
+	};
+	70411F3E0EB4D6CA00FA3DE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F230EB4B50B00FA3DE1 /* NSObject.h */;
+		name = "NSObject.h: 48";
+		rLen = 0;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 853;
+	};
+	70411F400EB4D6CA00FA3DE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70411F2B0EB4B55A00FA3DE1 /* Player.h */;
+		name = "Player.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	704120AE0EB522B600FA3DE1 /* Player.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Player.m;
+		path = /Users/stuartgrimshaw/Project/FlameWars.cocoa/Player.m;
+		sourceTree = "<group>";
+	};
+	704120B00EB522B600FA3DE1 /* Player.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 704120AE0EB522B600FA3DE1 /* Player.m */;
+		functionName = "-add1";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = FlameWars;
+		modificationTime = 264720946.861426;
+		state = 2;
+	};
+	704120C00EB523D000FA3DE1 /* ScoresController.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 70E2A9EC0EA401D100C0A07F /* ScoresController.m */;
+		functionName = "-add1:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = FlameWars;
+		modificationTime = 264720946.861443;
+		state = 2;
+	};
+	705A9E910FC8001C0005774A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70A6A3190FC63296003C704E /* Converter.h */;
+		name = "Converter.h: 21";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	705A9E920FC8001C0005774A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 700CCBE80EBCBE8F000A531A /* soundController.h */;
+		name = "soundController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 635;
+		vrLoc = 0;
+	};
+	705A9E930FC8001C0005774A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70229D0E0FC33C8F0036ABFA /* soundController.m */;
+		name = "soundController.m: 17";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 702;
+		vrLoc = 1930;
+	};
+	705A9E940FC8001C0005774A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70E2A9EC0EA401D100C0A07F /* ScoresController.m */;
+		name = "ScoresController.m: 34";
+		rLen = 0;
+		rLoc = 732;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 353;
+	};
+	705A9E960FC8001C0005774A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70A6A3190FC63296003C704E /* Converter.h */;
+		name = "Converter.h: 21";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	70602DD6103C8A6D00D9C25F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70E2A9EB0EA401D100C0A07F /* ScoresController.h */;
+		name = "ScoresController.h: 6";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	70602DE2103DA62000D9C25F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70E2A9EB0EA401D100C0A07F /* ScoresController.h */;
+		name = "ScoresController.h: 6";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	70824BB90F952DC300EE567A /* asm __udivdi3  0x9530c262 */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		path = "asm __udivdi3  0x9530c262";
+		sourceTree = "<group>";
+	};
+	70824BBB0F952DC300EE567A /* asm __udivdi3  0x9530c262:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 70824BB90F952DC300EE567A /* asm __udivdi3  0x9530c262 */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		modificationTime = 264720946.861459;
+		state = 1;
+	};
+	70824D260F95314F00EE567A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/stuartgrimshaw/Project/FlameWars.cocoa/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	708936B20EDE2F29002BD3B8 /* soundController.m:17 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 700CCC2B0EBD9CE5000A531A /* soundController.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 17;
+		location = FlameWars;
+		modificationTime = 264720946.861454;
+		state = 2;
+	};
+	70A6A3190FC63296003C704E /* Converter.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Converter.h;
+		path = /Users/stuartgrimshaw/Project/CocoaTest/Converter.h;
+		sourceTree = "<absolute>";
+	};
+	70BCA92F0FA7BEF70015F803 /* soundController.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 700CCC2B0EBD9CE5000A531A /* soundController.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		modificationTime = 264720946.861464;
+		state = 2;
+	};
+	70BCA95E0FA7C0250015F803 /* soundController.m:14 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 700CCC2B0EBD9CE5000A531A /* soundController.m */;
+		functionName = "-init";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 14;
+		location = FlameWars;
+		modificationTime = 264720946.861469;
+		state = 2;
+	};
+	70BCA9680FA7C2610015F803 /* main.m:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 29B97316FDCFA39411CA2CEA /* main.m */;
+		functionName = "main()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = FlameWars;
+		modificationTime = 264720946.8614739;
+		state = 2;
+	};
+	70C6CAEE0FC229EB007DEB42 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 708936D80EDE378A002BD3B8 /* Flamewars-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/stuartgrimshaw/Project/FlameWars.cocoa/Flamewars-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	70D0DB450FC2359C008D1EC1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 708936D80EDE378A002BD3B8 /* Flamewars-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundlePackageType,
+		);
+		name = "/Users/stuartgrimshaw/Project/FlameWars.cocoa/Flamewars-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	70D0DB460FC2359C008D1EC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FlameWars_Prefix.pch */;
+		name = "FlameWars_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	70D0DB470FC2359C008D1EC1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/stuartgrimshaw/Project/FlameWars.cocoa/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	70D0DB480FC2359C008D1EC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	70D0DB490FC2359C008D1EC1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	70E2A9EB0EA401D100C0A07F /* ScoresController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 435}}";
+			sepNavSelRange = "{147, 0}";
+			sepNavVisRange = "{0, 425}";
+			sepNavWindowFrame = "{{16, 220}, {750, 558}}";
+		};
+	};
+	70E2A9EC0EA401D100C0A07F /* ScoresController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 686}}";
+			sepNavSelRange = "{732, 0}";
+			sepNavVisRange = "{353, 723}";
+			sepNavWindowFrame = "{{102, 61}, {750, 558}}";
+		};
+	};
+	70E2A9F90EA537D200C0A07F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	70E2AA210EA53A8700C0A07F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70E2A9EB0EA401D100C0A07F /* ScoresController.h */;
+		name = "ScoresController.h: 21";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 40;
+	};
+	70E2AA640EA55C1100C0A07F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 70E2A9EC0EA401D100C0A07F /* ScoresController.m */;
+		name = "ScoresController.m: 37";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 252;
+	};
+	70F0776E0F328C0F007FC7ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FlameWars_Prefix.pch */;
+		name = "FlameWars_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* FlameWars */ = {
+		activeExec = 0;
+		executables = (
+			7027D5440FC62DE400734009 /* FlameWars */,
+		);
+	};
+}

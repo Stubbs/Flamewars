@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		700CCBEA0EBCBE8F000A531A /* soundController.m in Sources */ = {isa = PBXBuildFile; fileRef = 700CCBE90EBCBE8F000A531A /* soundController.m */; };
+		70411F2D0EB4B55A00FA3DE1 /* Player.m in Sources */ = {isa = PBXBuildFile; fileRef = 70411F2C0EB4B55A00FA3DE1 /* Player.m */; };
+		705A9E890FC75CF50005774A /* Cash register.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E830FC75CF50005774A /* Cash register.mp3 */; };
+		705A9E8A0FC75CF50005774A /* Hallelujah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E840FC75CF50005774A /* Hallelujah.mp3 */; };
+		705A9E8B0FC75CF50005774A /* Hot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E850FC75CF50005774A /* Hot.mp3 */; };
+		705A9E8C0FC75CF50005774A /* Points off.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E860FC75CF50005774A /* Points off.mp3 */; };
+		705A9E8D0FC75CF50005774A /* rocky.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E870FC75CF50005774A /* rocky.mp3 */; };
+		705A9E8E0FC75CF50005774A /* The Bill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 705A9E880FC75CF50005774A /* The Bill.mp3 */; };
+		70A6A2D90FC62ECF003C704E /* 1foot.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2B70FC62ECF003C704E /* 1foot.wav */; };
+		70A6A2DA0FC62ECF003C704E /* Airwolf.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2B80FC62ECF003C704E /* Airwolf.aiff */; };
+		70A6A2DB0FC62ECF003C704E /* Arrow_Hit.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2B90FC62ECF003C704E /* Arrow_Hit.aiff */; };
+		70A6A2DC0FC62ECF003C704E /* arrow_thunk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BA0FC62ECF003C704E /* arrow_thunk.mp3 */; };
+		70A6A2DD0FC62ECF003C704E /* bennyhill.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BB0FC62ECF003C704E /* bennyhill.mp3 */; };
+		70A6A2DE0FC62ECF003C704E /* camgreen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BC0FC62ECF003C704E /* camgreen.mp3 */; };
+		70A6A2DF0FC62ECF003C704E /* diffrentstrokes-1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BD0FC62ECF003C704E /* diffrentstrokes-1.mp3 */; };
+		70A6A2E00FC62ECF003C704E /* eyeOfTheTiger.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BE0FC62ECF003C704E /* eyeOfTheTiger.mp3 */; };
+		70A6A2E10FC62ECF003C704E /* flumps.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2BF0FC62ECF003C704E /* flumps.mp3 */; };
+		70A6A2E20FC62ECF003C704E /* FuneralMarch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C00FC62ECF003C704E /* FuneralMarch.mp3 */; };
+		70A6A2E30FC62ECF003C704E /* germany.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C10FC62ECF003C704E /* germany.mp3 */; };
+		70A6A2E40FC62ECF003C704E /* Golden envelope.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C20FC62ECF003C704E /* Golden envelope.mp3 */; };
+		70A6A2E50FC62ECF003C704E /* gonnaFlyNow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C30FC62ECF003C704E /* gonnaFlyNow.mp3 */; };
+		70A6A2E60FC62ECF003C704E /* Hooter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C40FC62ECF003C704E /* Hooter.mp3 */; };
+		70A6A2E70FC62ECF003C704E /* Incredible Hulk.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C50FC62ECF003C704E /* Incredible Hulk.aiff */; };
+		70A6A2E80FC62ECF003C704E /* InvincibleMario.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C60FC62ECF003C704E /* InvincibleMario.mp3 */; };
+		70A6A2E90FC62ECF003C704E /* It's A Knockout.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C70FC62ECF003C704E /* It's A Knockout.mp3 */; };
+		70A6A2EA0FC62ECF003C704E /* land_of_hope_and_glory.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C80FC62ECF003C704E /* land_of_hope_and_glory.wav */; };
+		70A6A2EB0FC62ECF003C704E /* largo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2C90FC62ECF003C704E /* largo.mp3 */; };
+		70A6A2EC0FC62ECF003C704E /* laurel_and_hardy.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CA0FC62ECF003C704E /* laurel_and_hardy.wav */; };
+		70A6A2ED0FC62ECF003C704E /* leeroy.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CB0FC62ECF003C704E /* leeroy.wav */; };
+		70A6A2EE0FC62ECF003C704E /* mash-1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CC0FC62ECF003C704E /* mash-1.mp3 */; };
+		70A6A2EF0FC62ECF003C704E /* mash.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CD0FC62ECF003C704E /* mash.mp3 */; };
+		70A6A2F00FC62ECF003C704E /* neeeooo2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CE0FC62ECF003C704E /* neeeooo2.wav */; };
+		70A6A2F10FC62ECF003C704E /* Only Fools And Horses.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2CF0FC62ECF003C704E /* Only Fools And Horses.mp3 */; };
+		70A6A2F20FC62ECF003C704E /* psycho.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D00FC62ECF003C704E /* psycho.wav */; };
+		70A6A2F30FC62ECF003C704E /* rimshot.wav in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D10FC62ECF003C704E /* rimshot.wav */; };
+		70A6A2F40FC62ECF003C704E /* sabotage.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D20FC62ECF003C704E /* sabotage.mp3 */; };
+		70A6A2F50FC62ECF003C704E /* shes_a_lady.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D30FC62ECF003C704E /* shes_a_lady.mp3 */; };
+		70A6A2F60FC62ECF003C704E /* steptoe and son.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D40FC62ECF003C704E /* steptoe and son.mp3 */; };
+		70A6A2F70FC62ECF003C704E /* twighlight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D50FC62ECF003C704E /* twighlight.mp3 */; };
+		70A6A2F80FC62ECF003C704E /* usa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D60FC62ECF003C704E /* usa.mp3 */; };
+		70A6A2F90FC62ECF003C704E /* wind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D70FC62ECF003C704E /* wind.mp3 */; };
+		70A6A2FA0FC62ECF003C704E /* YouAreAPirate.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 70A6A2D80FC62ECF003C704E /* YouAreAPirate.aiff */; };
+		70A6A3050FC62F7D003C704E /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29B97324FDCFA39411CA2CEA /* AppKit.framework */; };
+		70E2A9ED0EA401D100C0A07F /* ScoresController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70E2A9EC0EA401D100C0A07F /* ScoresController.m */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* FlameWars_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlameWars_Prefix.pch; sourceTree = "<group>"; };
+		700CCBE80EBCBE8F000A531A /* soundController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = soundController.h; sourceTree = "<group>"; };
+		700CCBE90EBCBE8F000A531A /* soundController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = soundController.m; sourceTree = "<group>"; };
+		7027D5430FC62DE400734009 /* FlameWars.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlameWars.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		70411F2B0EB4B55A00FA3DE1 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		70411F2C0EB4B55A00FA3DE1 /* Player.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Player.m; sourceTree = "<group>"; };
+		705A9E830FC75CF50005774A /* Cash register.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cash register.mp3"; sourceTree = "<group>"; };
+		705A9E840FC75CF50005774A /* Hallelujah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hallelujah.mp3; sourceTree = "<group>"; };
+		705A9E850FC75CF50005774A /* Hot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hot.mp3; sourceTree = "<group>"; };
+		705A9E860FC75CF50005774A /* Points off.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Points off.mp3"; sourceTree = "<group>"; };
+		705A9E870FC75CF50005774A /* rocky.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rocky.mp3; sourceTree = "<group>"; };
+		705A9E880FC75CF50005774A /* The Bill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Bill.mp3"; sourceTree = "<group>"; };
+		708936D80EDE378A002BD3B8 /* Flamewars-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flamewars-Info.plist"; sourceTree = "<group>"; };
+		70A6A2B70FC62ECF003C704E /* 1foot.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 1foot.wav; sourceTree = "<group>"; };
+		70A6A2B80FC62ECF003C704E /* Airwolf.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Airwolf.aiff; sourceTree = "<group>"; };
+		70A6A2B90FC62ECF003C704E /* Arrow_Hit.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Arrow_Hit.aiff; sourceTree = "<group>"; };
+		70A6A2BA0FC62ECF003C704E /* arrow_thunk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = arrow_thunk.mp3; sourceTree = "<group>"; };
+		70A6A2BB0FC62ECF003C704E /* bennyhill.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bennyhill.mp3; sourceTree = "<group>"; };
+		70A6A2BC0FC62ECF003C704E /* camgreen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = camgreen.mp3; sourceTree = "<group>"; };
+		70A6A2BD0FC62ECF003C704E /* diffrentstrokes-1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "diffrentstrokes-1.mp3"; sourceTree = "<group>"; };
+		70A6A2BE0FC62ECF003C704E /* eyeOfTheTiger.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = eyeOfTheTiger.mp3; sourceTree = "<group>"; };
+		70A6A2BF0FC62ECF003C704E /* flumps.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = flumps.mp3; sourceTree = "<group>"; };
+		70A6A2C00FC62ECF003C704E /* FuneralMarch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = FuneralMarch.mp3; sourceTree = "<group>"; };
+		70A6A2C10FC62ECF003C704E /* germany.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = germany.mp3; sourceTree = "<group>"; };
+		70A6A2C20FC62ECF003C704E /* Golden envelope.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Golden envelope.mp3"; sourceTree = "<group>"; };
+		70A6A2C30FC62ECF003C704E /* gonnaFlyNow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gonnaFlyNow.mp3; sourceTree = "<group>"; };
+		70A6A2C40FC62ECF003C704E /* Hooter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hooter.mp3; sourceTree = "<group>"; };
+		70A6A2C50FC62ECF003C704E /* Incredible Hulk.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = "Incredible Hulk.aiff"; sourceTree = "<group>"; };
+		70A6A2C60FC62ECF003C704E /* InvincibleMario.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = InvincibleMario.mp3; sourceTree = "<group>"; };
+		70A6A2C70FC62ECF003C704E /* It's A Knockout.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "It's A Knockout.mp3"; sourceTree = "<group>"; };
+		70A6A2C80FC62ECF003C704E /* land_of_hope_and_glory.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = land_of_hope_and_glory.wav; sourceTree = "<group>"; };
+		70A6A2C90FC62ECF003C704E /* largo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = largo.mp3; sourceTree = "<group>"; };
+		70A6A2CA0FC62ECF003C704E /* laurel_and_hardy.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laurel_and_hardy.wav; sourceTree = "<group>"; };
+		70A6A2CB0FC62ECF003C704E /* leeroy.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = leeroy.wav; sourceTree = "<group>"; };
+		70A6A2CC0FC62ECF003C704E /* mash-1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mash-1.mp3"; sourceTree = "<group>"; };
+		70A6A2CD0FC62ECF003C704E /* mash.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mash.mp3; sourceTree = "<group>"; };
+		70A6A2CE0FC62ECF003C704E /* neeeooo2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = neeeooo2.wav; sourceTree = "<group>"; };
+		70A6A2CF0FC62ECF003C704E /* Only Fools And Horses.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Only Fools And Horses.mp3"; sourceTree = "<group>"; };
+		70A6A2D00FC62ECF003C704E /* psycho.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = psycho.wav; sourceTree = "<group>"; };
+		70A6A2D10FC62ECF003C704E /* rimshot.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = rimshot.wav; sourceTree = "<group>"; };
+		70A6A2D20FC62ECF003C704E /* sabotage.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sabotage.mp3; sourceTree = "<group>"; };
+		70A6A2D30FC62ECF003C704E /* shes_a_lady.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shes_a_lady.mp3; sourceTree = "<group>"; };
+		70A6A2D40FC62ECF003C704E /* steptoe and son.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "steptoe and son.mp3"; sourceTree = "<group>"; };
+		70A6A2D50FC62ECF003C704E /* twighlight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = twighlight.mp3; sourceTree = "<group>"; };
+		70A6A2D60FC62ECF003C704E /* usa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = usa.mp3; sourceTree = "<group>"; };
+		70A6A2D70FC62ECF003C704E /* wind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wind.mp3; sourceTree = "<group>"; };
+		70A6A2D80FC62ECF003C704E /* YouAreAPirate.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = YouAreAPirate.aiff; sourceTree = "<group>"; };
+		70E2A9EB0EA401D100C0A07F /* ScoresController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScoresController.h; sourceTree = "<group>"; };
+		70E2A9EC0EA401D100C0A07F /* ScoresController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScoresController.m; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				70A6A3050FC62F7D003C704E /* AppKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				70E2A9EB0EA401D100C0A07F /* ScoresController.h */,
+				70E2A9EC0EA401D100C0A07F /* ScoresController.m */,
+				70411F2B0EB4B55A00FA3DE1 /* Player.h */,
+				70411F2C0EB4B55A00FA3DE1 /* Player.m */,
+				700CCBE80EBCBE8F000A531A /* soundController.h */,
+				700CCBE90EBCBE8F000A531A /* soundController.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7027D5430FC62DE400734009 /* FlameWars.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* FlameWars */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				708936D80EDE378A002BD3B8 /* Flamewars-Info.plist */,
+			);
+			name = FlameWars;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* FlameWars_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				70A6A2B60FC62E74003C704E /* Sounds */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		70A6A2B60FC62E74003C704E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				705A9E830FC75CF50005774A /* Cash register.mp3 */,
+				705A9E840FC75CF50005774A /* Hallelujah.mp3 */,
+				705A9E850FC75CF50005774A /* Hot.mp3 */,
+				705A9E860FC75CF50005774A /* Points off.mp3 */,
+				705A9E870FC75CF50005774A /* rocky.mp3 */,
+				705A9E880FC75CF50005774A /* The Bill.mp3 */,
+				70A6A2B70FC62ECF003C704E /* 1foot.wav */,
+				70A6A2B80FC62ECF003C704E /* Airwolf.aiff */,
+				70A6A2B90FC62ECF003C704E /* Arrow_Hit.aiff */,
+				70A6A2BA0FC62ECF003C704E /* arrow_thunk.mp3 */,
+				70A6A2BB0FC62ECF003C704E /* bennyhill.mp3 */,
+				70A6A2BC0FC62ECF003C704E /* camgreen.mp3 */,
+				70A6A2BD0FC62ECF003C704E /* diffrentstrokes-1.mp3 */,
+				70A6A2BE0FC62ECF003C704E /* eyeOfTheTiger.mp3 */,
+				70A6A2BF0FC62ECF003C704E /* flumps.mp3 */,
+				70A6A2C00FC62ECF003C704E /* FuneralMarch.mp3 */,
+				70A6A2C10FC62ECF003C704E /* germany.mp3 */,
+				70A6A2C20FC62ECF003C704E /* Golden envelope.mp3 */,
+				70A6A2C30FC62ECF003C704E /* gonnaFlyNow.mp3 */,
+				70A6A2C40FC62ECF003C704E /* Hooter.mp3 */,
+				70A6A2C50FC62ECF003C704E /* Incredible Hulk.aiff */,
+				70A6A2C60FC62ECF003C704E /* InvincibleMario.mp3 */,
+				70A6A2C70FC62ECF003C704E /* It's A Knockout.mp3 */,
+				70A6A2C80FC62ECF003C704E /* land_of_hope_and_glory.wav */,
+				70A6A2C90FC62ECF003C704E /* largo.mp3 */,
+				70A6A2CA0FC62ECF003C704E /* laurel_and_hardy.wav */,
+				70A6A2CB0FC62ECF003C704E /* leeroy.wav */,
+				70A6A2CC0FC62ECF003C704E /* mash-1.mp3 */,
+				70A6A2CD0FC62ECF003C704E /* mash.mp3 */,
+				70A6A2CE0FC62ECF003C704E /* neeeooo2.wav */,
+				70A6A2CF0FC62ECF003C704E /* Only Fools And Horses.mp3 */,
+				70A6A2D00FC62ECF003C704E /* psycho.wav */,
+				70A6A2D10FC62ECF003C704E /* rimshot.wav */,
+				70A6A2D20FC62ECF003C704E /* sabotage.mp3 */,
+				70A6A2D30FC62ECF003C704E /* shes_a_lady.mp3 */,
+				70A6A2D40FC62ECF003C704E /* steptoe and son.mp3 */,
+				70A6A2D50FC62ECF003C704E /* twighlight.mp3 */,
+				70A6A2D60FC62ECF003C704E /* usa.mp3 */,
+				70A6A2D70FC62ECF003C704E /* wind.mp3 */,
+				70A6A2D80FC62ECF003C704E /* YouAreAPirate.aiff */,
+			);
+			name = Sounds;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* FlameWars */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "FlameWars" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlameWars;
+			productInstallPath = "$(HOME)/Applications";
+			productName = FlameWars;
+			productReference = 7027D5430FC62DE400734009 /* FlameWars.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FlameWars" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* FlameWars */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* FlameWars */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				70A6A2D90FC62ECF003C704E /* 1foot.wav in Resources */,
+				70A6A2DA0FC62ECF003C704E /* Airwolf.aiff in Resources */,
+				70A6A2DB0FC62ECF003C704E /* Arrow_Hit.aiff in Resources */,
+				70A6A2DC0FC62ECF003C704E /* arrow_thunk.mp3 in Resources */,
+				70A6A2DD0FC62ECF003C704E /* bennyhill.mp3 in Resources */,
+				70A6A2DE0FC62ECF003C704E /* camgreen.mp3 in Resources */,
+				70A6A2DF0FC62ECF003C704E /* diffrentstrokes-1.mp3 in Resources */,
+				70A6A2E00FC62ECF003C704E /* eyeOfTheTiger.mp3 in Resources */,
+				70A6A2E10FC62ECF003C704E /* flumps.mp3 in Resources */,
+				70A6A2E20FC62ECF003C704E /* FuneralMarch.mp3 in Resources */,
+				70A6A2E30FC62ECF003C704E /* germany.mp3 in Resources */,
+				70A6A2E40FC62ECF003C704E /* Golden envelope.mp3 in Resources */,
+				70A6A2E50FC62ECF003C704E /* gonnaFlyNow.mp3 in Resources */,
+				70A6A2E60FC62ECF003C704E /* Hooter.mp3 in Resources */,
+				70A6A2E70FC62ECF003C704E /* Incredible Hulk.aiff in Resources */,
+				70A6A2E80FC62ECF003C704E /* InvincibleMario.mp3 in Resources */,
+				70A6A2E90FC62ECF003C704E /* It's A Knockout.mp3 in Resources */,
+				70A6A2EA0FC62ECF003C704E /* land_of_hope_and_glory.wav in Resources */,
+				70A6A2EB0FC62ECF003C704E /* largo.mp3 in Resources */,
+				70A6A2EC0FC62ECF003C704E /* laurel_and_hardy.wav in Resources */,
+				70A6A2ED0FC62ECF003C704E /* leeroy.wav in Resources */,
+				70A6A2EE0FC62ECF003C704E /* mash-1.mp3 in Resources */,
+				70A6A2EF0FC62ECF003C704E /* mash.mp3 in Resources */,
+				70A6A2F00FC62ECF003C704E /* neeeooo2.wav in Resources */,
+				70A6A2F10FC62ECF003C704E /* Only Fools And Horses.mp3 in Resources */,
+				70A6A2F20FC62ECF003C704E /* psycho.wav in Resources */,
+				70A6A2F30FC62ECF003C704E /* rimshot.wav in Resources */,
+				70A6A2F40FC62ECF003C704E /* sabotage.mp3 in Resources */,
+				70A6A2F50FC62ECF003C704E /* shes_a_lady.mp3 in Resources */,
+				70A6A2F60FC62ECF003C704E /* steptoe and son.mp3 in Resources */,
+				70A6A2F70FC62ECF003C704E /* twighlight.mp3 in Resources */,
+				70A6A2F80FC62ECF003C704E /* usa.mp3 in Resources */,
+				70A6A2F90FC62ECF003C704E /* wind.mp3 in Resources */,
+				70A6A2FA0FC62ECF003C704E /* YouAreAPirate.aiff in Resources */,
+				705A9E890FC75CF50005774A /* Cash register.mp3 in Resources */,
+				705A9E8A0FC75CF50005774A /* Hallelujah.mp3 in Resources */,
+				705A9E8B0FC75CF50005774A /* Hot.mp3 in Resources */,
+				705A9E8C0FC75CF50005774A /* Points off.mp3 in Resources */,
+				705A9E8D0FC75CF50005774A /* rocky.mp3 in Resources */,
+				705A9E8E0FC75CF50005774A /* The Bill.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				70E2A9ED0EA401D100C0A07F /* ScoresController.m in Sources */,
+				70411F2D0EB4B55A00FA3DE1 /* Player.m in Sources */,
+				700CCBEA0EBCBE8F000A531A /* soundController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FlameWars_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = FlameWars;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FlameWars_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = FlameWars;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = 3.3;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_PROFILING_CODE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "FlameWars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FlameWars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
